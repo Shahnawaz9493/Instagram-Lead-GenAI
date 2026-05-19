@@ -269,9 +269,4 @@ If you find this project useful:
 
 * GitHub: [https://github.com/Shahnawaz9493](https://github.com/Shahnawaz9493)
 * LinkedIn: [https://www.linkedin.com/in/mohammad-shahnawaz-22981121a/](https://www.linkedin.com/in/mohammad-shahnawaz-22981121a/)
-
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
